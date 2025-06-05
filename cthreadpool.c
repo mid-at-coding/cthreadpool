@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-#include "../inc/cthreadpool.h"
+#include "cthreadpool.h"
 
 /* ======================== STATIC FUNCTIONS DEFINED ========================= */
 
